@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Toluwalope Victoria Adeti-Toyo
+- 👋 Hi, my name is Toluwalope Victoria Adeti-Toyo.
 - 👀 I’m interested in building beautiful and responsive websites and creating content.
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on open source projects for beginners, sustainable development goals hackathons.
